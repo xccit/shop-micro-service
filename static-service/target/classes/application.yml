@@ -1,6 +1,0 @@
-spring:
-  mvc:
-    # \u914D\u7F6E\u9759\u6001\u8D44\u6E90\u8BBF\u95EE\u8DEF\u5F84
-    static-path-pattern: /public/** #url
-  resources:
-    static-locations: classpath:/public/ #\u9759\u6001\u8D44\u6E90\u8DEF\u5F84
