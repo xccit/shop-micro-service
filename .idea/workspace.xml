@@ -20,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -60,7 +60,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "E:/IdeaProjects/b2c-store-master/static-service/src/main/resources",
+    "last_opened_file_path": "E:/IdeaProjects/b2c-store-master/sql",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,6 +72,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\b2c-store-master\sql" />
       <recent name="E:\IdeaProjects\b2c-store-master\static-service\src\main\resources" />
       <recent name="E:\IdeaProjects\b2c-store-master\user-service\src\main\resources" />
       <recent name="E:\IdeaProjects\b2c-store-master\store-common\src\main\java\io\xccit\utils" />
@@ -173,7 +174,7 @@
       <workItem from="1694181990870" duration="6713000" />
       <workItem from="1694188826155" duration="17000" />
       <workItem from="1694222182164" duration="18290000" />
-      <workItem from="1694305189953" duration="31875000" />
+      <workItem from="1694305189953" duration="33100000" />
     </task>
     <servers />
   </component>
