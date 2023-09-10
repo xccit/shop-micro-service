@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: product-service
+  cloud:
+    nacos:
+      server-addr: localhost:8848
+      username: nacos
+      password: nacos
+server:
+  port: 3004
